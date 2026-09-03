@@ -1,2 +1,1 @@
-# my-learning
-My IT learning journey
+Im learning IT and building my future.
